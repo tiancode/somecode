@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMS_SmsManager</string>
+
+    <string name="phoneNO">电话号码</string>
+    <string name="SMS">信息</string>
+    <string name="SEND_SMS">发送</string>
+</resources>
